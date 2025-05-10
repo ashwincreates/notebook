@@ -1,0 +1,38 @@
+site_name: Garden
+theme:
+  logo: "assets/logo.svg"
+  features:
+    - navigation.indexes
+    - navigation.tabs
+  palette:
+    scheme: slate
+    primary: teal
+    accent: teal
+  name: material
+plugins:
+  - search
+  - ezlinks
+  - callouts
+markdown_extensions:
+  - def_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - nl2br
+  - pymdownx.details
+  - admonition
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css

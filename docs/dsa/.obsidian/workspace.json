@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "70da3611aa1f3561",
+    "type": "split",
+    "children": [
+      {
+        "id": "44cae25607f12ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29775c70e72268cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba50804d9753e0a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6289362028d3792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc4ab72153705e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a146d0863cbfa5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1ae535eb97c06efb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08f10b8c33a1d6a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8416561fc137fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f350e69221667cdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "794bdfd199f41ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "7304e2820c6b2880",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c10b167f970f5a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "29775c70e72268cf",
+  "lastOpenFiles": [
+    "trees/index.md",
+    "trees/flatten-binary-tree-to-linked-list.md",
+    "trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
+    "trees/height-and-diameter-of-a-binary-tree.md",
+    "trees/image_1_20240330235536.png",
+    "dp/index.md",
+    "graph/index.md",
+    "array/count-number-of-subarray-with-given-xor-k.md",
+    "array/maximum-product-subarray.md",
+    "array/majority-element.md",
+    "array/3sum-problem.md",
+    "array/largest-subarray-with-zero-sum.md",
+    "array/kadanes-algorithm.md",
+    "array/rearrange-the-array-in-alternating-positive-and-negative-items.md",
+    "array/print-the-matrix-in-spiral-manner.md",
+    "array/stock-buy-and-sell.md",
+    "array/4sum-problem.md",
+    "array/count-subarrays-with-give-sum.md",
+    "array/longest-consecutive-sequence-in-an-array.md",
+    "array/print-subarray-with-maximum-subarray-sum.md",
+    "array/2-sum-problem.md",
+    "array/finding-the-repeating-and-missing-number.md",
+    "array/merge-two-arrays-without-extra-space.md",
+    "array/count-inversions.md",
+    "array/merge-overlapping-intervals.md",
+    "array/sort-an-array-or-0's-1's-2's.md",
+    "array/find-the-union.md",
+    "array/leaders-in-an-array-problem.md",
+    "graph/pasted-image-20240711150421.png",
+    "graph/Pasted image 20240711150421.png",
+    "graph",
+    "dp",
+    "trees/morris_traveral.png",
+    "trees/image_20240331000808.png",
+    "trees/Pasted_image_20240404221007.png",
+    "trees/Pasted_image_20240401211016.png",
+    "trees",
+    "array"
+  ]
+}

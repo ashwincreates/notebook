@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "108d123fc5e2bdbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b7cd1d2e2f58cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6983c60798b82f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dsa/Trees/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89e6d2e809d749ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbc1ec530e73a5ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb32d0343dd5a59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2ab7de6318ebd923",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2718c655852cb9e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e85371200e5aa221",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ab37c67271836c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66503381005ba428",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/dsa/Trees/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "dedcf507f73d721b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/dsa/Trees/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "f9ee3b23fa94d42c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f80993751b59982",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/dsa/Trees/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6983c60798b82f6",
+  "lastOpenFiles": [
+    "docs/dsa/Graph/index.md",
+    "docs/assets/logo.svg",
+    "docs/assets",
+    "docs/untitled folder",
+    "docs/logo.svg",
+    "logo.svg",
+    "docs/dsa/Trees/index.md",
+    "docs/dsa/DP/index.md",
+    "docs/dsa/Array/index.md",
+    "docs/dsa/Array/Finding the repeating and missing number.md",
+    "docs/index.md",
+    "docs/dsa/Trees/Ceil and Floor in a BST.md",
+    "docs/javascripts/katex.js",
+    "docs/javascripts",
+    "javascripts/katex.js",
+    "javascripts",
+    "mkdocs.yml~"
+  ]
+}
